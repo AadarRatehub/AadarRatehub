@@ -2,7 +2,7 @@
 - 👀 I’m interested in creator technology and working with web based applications
 - 🌱 I’m currently learning about Web 3.0 and DevOps
 - 💞️ I’m looking to collaborate on projects that bring me out of my comfort zone
-- 📫 How to reach me - aadar100@gmail.com
+- 📫 How to reach me - aadar.gupta@ratehub.ca
 
 <!---
 AadarRatehub/AadarRatehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
